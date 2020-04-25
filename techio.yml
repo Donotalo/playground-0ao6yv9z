@@ -1,4 +1,5 @@
 title: Understanding KMP - A Linear Time Pattern Match Algorithm
+cover: cover.png
 plan:
 - title: C++ Snippet
   statement: statement.md
