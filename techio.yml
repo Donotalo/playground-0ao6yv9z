@@ -1,5 +1,5 @@
 title: Understanding KMP - A Linear Time Pattern Match Algorithm
 cover: cover.png
 plan:
-- title: Background of KMP
+- title: Introduction to KMP
   statement: lesson01.md
