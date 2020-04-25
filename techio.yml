@@ -1,4 +1,4 @@
-title: Simple C++ Template
+title: Understanding KMP: A Linear Time Pattern Match Algorithm
 plan:
 - title: C++ Snippet
   statement: statement.md
