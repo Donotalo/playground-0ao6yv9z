@@ -1,6 +1,6 @@
-# Welcome!
+# What's KMP algorithm
 
-This C++ template lets you get started quickly with a simple one-page playground.
+KMP
 
 ```C++ runnable
 #include <iostream>
