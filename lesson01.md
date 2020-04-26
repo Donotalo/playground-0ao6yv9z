@@ -1,6 +1,6 @@
-# What's KMP?
+# The Problem
 
-This C++ template lets you get started quickly with a simple one-page playground.
+Let's define what problem KMP algorithm addresses. Given two strings S and W, we'd like to know all occurrences of W within S.
 
 ```C++ runnable
 #include <iostream>
