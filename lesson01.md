@@ -11,7 +11,7 @@ From Wikipedia, as of this writing:
 
 # Constructing An Example
 
-Let's take a look at how this algorithm works. The following example is taken from https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm#KMP_algorithm but the explanation is elaborated. Say,
+Let's take a look at how this algorithm works. The following example is taken from [Wikipedia's KMP algorithm page](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm#KMP_algorithm "Wikipedia's KMP algorithm page") but the explanation is elaborated. Say,
 
 ```
     01234567890123456789012
