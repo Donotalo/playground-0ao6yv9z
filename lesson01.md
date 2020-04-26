@@ -11,11 +11,13 @@ From Wikipedia, as of this writing:
 
 # Constructing An Example
 
-Let's take a look at how this algorithm works. Say,
+Let's take a look at how this algorithm works. The following example is taken from https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm#KMP_algorithm but the explanation is elaborated. Say,
 
 ```
+    01234567890123456789012
 S = ABC ABCDAB ABCDABCDABDE
 W = ABCDABD
+    0123456
 ```
 
 ```C++ runnable
