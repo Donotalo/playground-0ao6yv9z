@@ -7,6 +7,7 @@ Let's define what problem KMP algorithm addresses. Given two strings `S` and `W`
 From Wikipedia, as of this writing:
 
 > The algorithm was conceived by James H. Morris and independently discovered by Donald Knuth "a few weeks later" from automata theory. Morris and Vaughan Pratt published a technical report in 1970. The three also published the algorithm jointly in 1977.
+> This was the first linear-time algorithm for string matching.
 
 ```C++ runnable
 #include <iostream>
