@@ -9,6 +9,15 @@ From Wikipedia, as of this writing:
 > The algorithm was conceived by James H. Morris and independently discovered by Donald Knuth "a few weeks later" from automata theory. Morris and Vaughan Pratt published a technical report in 1970. The three also published the algorithm jointly in 1977.
 > This was the first linear-time algorithm for string matching.
 
+# Constructing An Example
+
+Let's take a look at how this algorithm works. Say,
+
+```
+S = ABC ABCDAB ABCDABCDABDE
+W = ABCDABD
+```
+
 ```C++ runnable
 #include <iostream>
 
